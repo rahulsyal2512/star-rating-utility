@@ -1,0 +1,19 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	width: 100vh;
+	height: 100vh;
+}
+.fa-star-o:before {
+	content: '\f006';
+	color: #5f6368;
+	font-size: 30px;
+}
+
+.fa-star:before {
+	content: '\f005';
+	color: #d56e0c;
+	font-size: 30px;
+}
